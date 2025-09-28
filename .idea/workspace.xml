@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3547573c-86a4-447f-91a1-4b7cde8b0cae" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/.idea/Gifbot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/.idea/Gifbot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gifbot/content.json" afterDir="false" />
+    <list default="true" id="3547573c-86a4-447f-91a1-4b7cde8b0cae" name="Changes" comment="first coomit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gifbot/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gifbot/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,8 +127,17 @@
       <workItem from="1759014232962" duration="638000" />
       <workItem from="1759016353080" duration="2008000" />
       <workItem from="1759021109010" duration="60000" />
-      <workItem from="1759022120355" duration="2013000" />
+      <workItem from="1759022120355" duration="4301000" />
     </task>
+    <task id="LOCAL-00001" summary="first coomit">
+      <option name="closed" value="true" />
+      <created>1759024160344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759024160344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="first coomit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first coomit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Gifbot$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1759016516203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
